@@ -4,13 +4,3 @@
         width: 365px;
     }
 }
-@media(min-width: 768px){
-    .botao{
-        background-color: hsl(150, 100%, 66%);
-        border-radius: 50%;
-        border-style: none;
-        width: 70px;
-        height: 70px;
-    }
-
-}
